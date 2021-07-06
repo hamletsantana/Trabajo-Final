@@ -2,7 +2,7 @@
 
 namespace IntSet
 {
-    class IntSet
+    class IntList
     {
         private int[] data;
         private int length;
@@ -12,7 +12,14 @@ namespace IntSet
             length = 0;
         }
 
-        
+        public void Add(int num)
+        {
+            int [] array = new int [length + 1];
+            data.CopyTo(array,0);
+            array[length] = num;
+            data = array;
+            length++;  
+        }
         
         public bool Contains(int num)
         {
