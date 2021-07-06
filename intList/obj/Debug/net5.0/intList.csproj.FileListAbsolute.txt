@@ -1,0 +1,16 @@
+C:\Users\DELL\Documents\INTEC\Programación II\Práctica Final\intList\bin\Debug\net5.0\intList.exe
+C:\Users\DELL\Documents\INTEC\Programación II\Práctica Final\intList\bin\Debug\net5.0\intList.deps.json
+C:\Users\DELL\Documents\INTEC\Programación II\Práctica Final\intList\bin\Debug\net5.0\intList.runtimeconfig.json
+C:\Users\DELL\Documents\INTEC\Programación II\Práctica Final\intList\bin\Debug\net5.0\intList.runtimeconfig.dev.json
+C:\Users\DELL\Documents\INTEC\Programación II\Práctica Final\intList\bin\Debug\net5.0\intList.dll
+C:\Users\DELL\Documents\INTEC\Programación II\Práctica Final\intList\bin\Debug\net5.0\ref\intList.dll
+C:\Users\DELL\Documents\INTEC\Programación II\Práctica Final\intList\bin\Debug\net5.0\intList.pdb
+C:\Users\DELL\Documents\INTEC\Programación II\Práctica Final\intList\obj\Debug\net5.0\intList.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\INTEC\Programación II\Práctica Final\intList\obj\Debug\net5.0\intList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\INTEC\Programación II\Práctica Final\intList\obj\Debug\net5.0\intList.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\INTEC\Programación II\Práctica Final\intList\obj\Debug\net5.0\intList.AssemblyInfo.cs
+C:\Users\DELL\Documents\INTEC\Programación II\Práctica Final\intList\obj\Debug\net5.0\intList.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\INTEC\Programación II\Práctica Final\intList\obj\Debug\net5.0\intList.dll
+C:\Users\DELL\Documents\INTEC\Programación II\Práctica Final\intList\obj\Debug\net5.0\ref\intList.dll
+C:\Users\DELL\Documents\INTEC\Programación II\Práctica Final\intList\obj\Debug\net5.0\intList.pdb
+C:\Users\DELL\Documents\INTEC\Programación II\Práctica Final\intList\obj\Debug\net5.0\intList.genruntimeconfig.cache
