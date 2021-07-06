@@ -16,6 +16,7 @@ namespace intList
         {
             int [] array = new int [length + 1];
             data.CopyTo(array,0);
+            array[length] = num;
             data = array;
             length++;  
         }
